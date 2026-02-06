@@ -1,8 +1,6 @@
 (function($) {
 
-
 jQuery(document).ready(function($) {
-
 
 			// we create a copy of the WP inline edit post function
    var $wp_inline_edit = inlineEditPost.edit;
@@ -39,16 +37,10 @@ jQuery(document).ready(function($) {
 	 $edit_row.find( 'textarea[name="wplf_description"]' ).val( $wplf_description );
 	 console.log($wplf_description);
 
-
       }
 
    };
 
-
-
-
-
 });
-
 
 })(jQuery);

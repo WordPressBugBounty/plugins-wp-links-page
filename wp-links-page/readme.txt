@@ -1,9 +1,11 @@
 === WP Links Page ===
 Contributors: Robert Macchi
-Tags: wp-links, links, links page, link screenshots, link directory, link gallery, link thumbnails
-Requires at least: 
-Tested up to: 6.5
-Stable Tag: trunk 
+Tags: links page, link screenshots, link directory, link gallery, link thumbnails
+Requires at least:
+Tested up to: 6.9
+Stable Tag: 5.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin allows you to create a dynamic link gallery with screenshots of each link.
 
@@ -49,7 +51,7 @@ Using FTP
 
 == Usage ==
 
-= Adding and Editing Links = 
+= Adding and Editing Links =
 
 Visit the All Links section of the dashboard to add and edit the links.
 
@@ -142,7 +144,7 @@ Click here to view a demo of the pro version: [http://www.wplinkspage.com/grid-3
 
 * Bug fix Support issue Error / Warning after update
 
-= Version 4.3 = 
+= Version 4.3 =
 
 * Error Log issue fix
 
@@ -150,7 +152,7 @@ Click here to view a demo of the pro version: [http://www.wplinkspage.com/grid-3
 
 * Various bug fixes
 
-= Version 4.4 = 
+= Version 4.4 =
 
 * Added shortcode features
 
@@ -219,3 +221,14 @@ Tested compatibility with WordPress 5.7 release
 *Fixed Security authorization issues
 
 *Tested for compatibility with WordPress 6.5
+
+
+= Version 5.0
+
+* Security fixes
+
+* Updated to latest Wordpress Standards
+
+* Tested for compatibility with WordPress 6.9
+
+
